@@ -1,0 +1,10 @@
+C:\Users\fedee\source\repos\Campeggio Collina Verde\Campeggio Collina Verde\bin\Debug\Campeggio Collina Verde.exe.config
+C:\Users\fedee\source\repos\Campeggio Collina Verde\Campeggio Collina Verde\bin\Debug\Campeggio Collina Verde.exe
+C:\Users\fedee\source\repos\Campeggio Collina Verde\Campeggio Collina Verde\bin\Debug\Campeggio Collina Verde.pdb
+C:\Users\fedee\source\repos\Campeggio Collina Verde\Campeggio Collina Verde\obj\Debug\Campeggio Collina Verde.csproj.AssemblyReference.cache
+C:\Users\fedee\source\repos\Campeggio Collina Verde\Campeggio Collina Verde\obj\Debug\Campeggio_Collina_Verde.Form1.resources
+C:\Users\fedee\source\repos\Campeggio Collina Verde\Campeggio Collina Verde\obj\Debug\Campeggio_Collina_Verde.Properties.Resources.resources
+C:\Users\fedee\source\repos\Campeggio Collina Verde\Campeggio Collina Verde\obj\Debug\Campeggio Collina Verde.csproj.GenerateResource.cache
+C:\Users\fedee\source\repos\Campeggio Collina Verde\Campeggio Collina Verde\obj\Debug\Campeggio Collina Verde.csproj.CoreCompileInputs.cache
+C:\Users\fedee\source\repos\Campeggio Collina Verde\Campeggio Collina Verde\obj\Debug\Campeggio Collina Verde.exe
+C:\Users\fedee\source\repos\Campeggio Collina Verde\Campeggio Collina Verde\obj\Debug\Campeggio Collina Verde.pdb
